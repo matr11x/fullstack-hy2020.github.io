@@ -534,7 +534,7 @@ Let's define the <i>npm script _test_</i> for the test execution:
 ```
 
 
-Let's create a separate directory for our tests called <i>tests</i> and create a new file called <i>reverse.test.js</i> with the following contents:
+Let's create a separate directory for our tests called <i>test</i> and create a new file called <i>reverse.test.js</i> with the following contents:
 
 ```js
 const { test } = require('node:test')
